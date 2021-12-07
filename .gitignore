@@ -5,3 +5,5 @@ Project
 *.png
 *.zip
 *.pdf
+CK+48
+!images/*
