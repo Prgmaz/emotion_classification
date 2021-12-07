@@ -1,0 +1,7 @@
+__pycache_
+.ipynb_checkpoints
+checkpoint
+Project
+*.png
+*.zip
+*.pdf
